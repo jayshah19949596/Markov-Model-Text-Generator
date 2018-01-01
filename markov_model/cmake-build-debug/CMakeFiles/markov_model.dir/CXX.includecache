@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/jaysh/CLionProjects/markov_model/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+vector
+-
+iterator
+-
+set
+-
+map
+-
+time.h
+-
+
